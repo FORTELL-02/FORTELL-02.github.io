@@ -74,8 +74,3 @@ Improving accessibility features (such as ARIA roles, alt texts).
 9. Conclusion
 The dummy MIT website project was a great exercise in web development. It showed how HTML and CSS can be used to create a fully functional and aesthetically pleasing website. Future versions could include advanced technologies to make the website more dynamic and interactive.
 
-Attachments:
-
-Screenshots of the website's key pages.
-
-Source code files (HTML and CSS).
